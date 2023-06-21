@@ -38,16 +38,6 @@ Overall, I'm a driven and innovative individual who is committed to making a pos
 
 
 
-#
-### STATS
-![AVS's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMITH140&show_icons=true&theme=dark)
-#
-
-
-
-
-
-
 
 
 
